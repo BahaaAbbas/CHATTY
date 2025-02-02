@@ -30,10 +30,6 @@ CHATTY is a full-stack real-time chat application built using ReactJS for the fr
 - **Real-Time Communication**: Socket.IO
 - **Database**: MongoDB
 
-## Future Enhancements
-
-- Private messaging and direct messaging feature
-- Adding message search functionality
 
 ## Installation
 
@@ -66,6 +62,14 @@ CHATTY is a full-stack real-time chat application built using ReactJS for the fr
 
 ## Screenshots
 
-![CHATTY Screenshot 1](path-to-screenshot-1.png)
-![CHATTY Screenshot 2](path-to-screenshot-2.png)
+![CHATTY Screenshot 1](https://github.com/BahaaAbbas/ImagesHolder/blob/main/CHATTY/1.PNG?raw=true)
+![CHATTY Screenshot 2](https://github.com/BahaaAbbas/ImagesHolder/blob/main/CHATTY/2.PNG?raw=true)
+![CHATTY Screenshot 3](https://github.com/BahaaAbbas/ImagesHolder/blob/main/CHATTY/3.PNG?raw=true)
+![CHATTY Screenshot 4](https://github.com/BahaaAbbas/ImagesHolder/blob/main/CHATTY/4.PNG?raw=true)
+![CHATTY Screenshot 5](https://github.com/BahaaAbbas/ImagesHolder/blob/main/CHATTY/5.PNG?raw=true)
+![CHATTY Screenshot 6](https://github.com/BahaaAbbas/ImagesHolder/blob/main/CHATTY/6.PNG?raw=true)
+![CHATTY Screenshot 7](https://github.com/BahaaAbbas/ImagesHolder/blob/main/CHATTY/7.PNG?raw=true)
+![CHATTY Screenshot 8](https://github.com/BahaaAbbas/ImagesHolder/blob/main/CHATTY/8.PNG?raw=true)
+![CHATTY Screenshot 9](https://github.com/BahaaAbbas/ImagesHolder/blob/main/CHATTY/9.PNG?raw=true)
+
 
