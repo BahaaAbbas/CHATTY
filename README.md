@@ -71,5 +71,9 @@ CHATTY is a full-stack real-time chat application built using ReactJS for the fr
 ![CHATTY Screenshot 7](https://github.com/BahaaAbbas/ImagesHolder/blob/main/CHATTY/7.PNG?raw=true)
 ![CHATTY Screenshot 8](https://github.com/BahaaAbbas/ImagesHolder/blob/main/CHATTY/8.PNG?raw=true)
 ![CHATTY Screenshot 9](https://github.com/BahaaAbbas/ImagesHolder/blob/main/CHATTY/9.PNG?raw=true)
+![CHATTY Screenshot 10](https://github.com/BahaaAbbas/ImagesHolder/blob/main/CHATTY/10.PNG?raw=true)
+![CHATTY Screenshot 11](https://github.com/BahaaAbbas/ImagesHolder/blob/main/CHATTY/11.PNG?raw=true)
+
+
 
 
