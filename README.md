@@ -21,7 +21,7 @@ CHATTY is a full-stack real-time chat application built using ReactJS for the fr
 - A simple, intuitive UI built with ReactJS and Styled Components for easy navigation and a seamless chat experience.
 
  ### Message Search:
-- **Message Search**: The search functionality allows users to quickly find and navigate through past messages with real-time highlighting and a clear/reset option.
+- The search functionality allows users to quickly find and navigate through past messages with real-time highlighting and a clear/reset option.
 
 ## Technology Stack
 
