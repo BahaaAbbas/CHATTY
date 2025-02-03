@@ -11,9 +11,6 @@ CHATTY is a full-stack real-time chat application built using ReactJS for the fr
 ### User Authentication:
 - Secure login and sign-up system to allow users to register and authenticate before using the chat features.
 
-### Chat Rooms:
-- Create and join multiple chat rooms for different conversations. Each room supports group chat functionalities.
-
 ### Responsive UI:
 - Fully responsive layout built with Styled Components for modern styling. The app looks great on both desktop and mobile devices.
 
@@ -22,6 +19,9 @@ CHATTY is a full-stack real-time chat application built using ReactJS for the fr
 
 ### Easy-to-Use Interface:
 - A simple, intuitive UI built with ReactJS and Styled Components for easy navigation and a seamless chat experience.
+
+ ### Message Search:
+- **Message Search**: The search functionality allows users to quickly find and navigate through past messages with real-time highlighting and a clear/reset option.
 
 ## Technology Stack
 
