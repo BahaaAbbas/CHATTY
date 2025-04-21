@@ -62,16 +62,16 @@ CHATTY is a full-stack real-time chat application built using ReactJS for the fr
 
 ## Screenshots
 ![CHATTY Screenshot 1](https://github.com/BahaaAbbas/CHATTY/blob/main/public/src/assets/ReadmeImages/1.PNG?raw=true)
-![CHATTY Screenshot 2](https://github.com/BahaaAbbas/ImagesHolder/blob/main/CHATTY/2.PNG?raw=true)
-![CHATTY Screenshot 3](https://github.com/BahaaAbbas/ImagesHolder/blob/main/CHATTY/3.PNG?raw=true)
-![CHATTY Screenshot 4](https://github.com/BahaaAbbas/ImagesHolder/blob/main/CHATTY/4.PNG?raw=true)
-![CHATTY Screenshot 5](https://github.com/BahaaAbbas/ImagesHolder/blob/main/CHATTY/5.PNG?raw=true)
-![CHATTY Screenshot 6](https://github.com/BahaaAbbas/ImagesHolder/blob/main/CHATTY/6.PNG?raw=true)
-![CHATTY Screenshot 7](https://github.com/BahaaAbbas/ImagesHolder/blob/main/CHATTY/7.PNG?raw=true)
-![CHATTY Screenshot 8](https://github.com/BahaaAbbas/ImagesHolder/blob/main/CHATTY/8.PNG?raw=true)
-![CHATTY Screenshot 9](https://github.com/BahaaAbbas/ImagesHolder/blob/main/CHATTY/9.PNG?raw=true)
-![CHATTY Screenshot 10](https://github.com/BahaaAbbas/ImagesHolder/blob/main/CHATTY/10.PNG?raw=true)
-![CHATTY Screenshot 11](https://github.com/BahaaAbbas/ImagesHolder/blob/main/CHATTY/11.PNG?raw=true)
+![CHATTY Screenshot 2](https://github.com/BahaaAbbas/CHATTY/blob/main/public/src/assets/ReadmeImages/2.PNG?raw=true)
+![CHATTY Screenshot 3](https://github.com/BahaaAbbas/CHATTY/blob/main/public/src/assets/ReadmeImages/3.PNG?raw=true)
+![CHATTY Screenshot 4](https://github.com/BahaaAbbas/CHATTY/blob/main/public/src/assets/ReadmeImages/4.PNG?raw=true)
+![CHATTY Screenshot 5](https://github.com/BahaaAbbas/CHATTY/blob/main/public/src/assets/ReadmeImages/5.PNG?raw=true)
+![CHATTY Screenshot 6](https://github.com/BahaaAbbas/CHATTY/blob/main/public/src/assets/ReadmeImages/6.PNG?raw=true)
+![CHATTY Screenshot 7](https://github.com/BahaaAbbas/CHATTY/blob/main/public/src/assets/ReadmeImages/7.PNG?raw=true)
+![CHATTY Screenshot 8](https://github.com/BahaaAbbas/CHATTY/blob/main/public/src/assets/ReadmeImages/8.PNG?raw=true)
+![CHATTY Screenshot 9](https://github.com/BahaaAbbas/CHATTY/blob/main/public/src/assets/ReadmeImages/9.PNG?raw=true)
+![CHATTY Screenshot 10](https://github.com/BahaaAbbas/CHATTY/blob/main/public/src/assets/ReadmeImages/10.PNG?raw=true)
+![CHATTY Screenshot 11](https://github.com/BahaaAbbas/CHATTY/blob/main/public/src/assets/ReadmeImages/11.PNG?raw=true)
 
 
 
